@@ -1,0 +1,69 @@
+#container{
+    border: 5px solid gold;
+    width: 200px;
+    height: 90px;
+    padding : 50px;
+    text-align: center;
+    background-color:sienna;
+}
+span{
+    margin:2px;
+}
+
+#hour{
+    color:crimson;
+}
+#minute{
+    color:aqua;
+}
+#second{
+    color:chartreuse
+}
+#hourBox{
+    border: 1px solid crimson;
+    padding: 1px 3px 0px 3px;
+    margin-right: 2px;
+    margin-left : 18px;
+}
+#minuteBox{
+    border: 1px solid aqua;
+    padding: 1px 3px 0px 3px;
+    margin-right: 5px;
+}
+#secondBox{
+    border: 1px solid chartreuse;
+    padding: 1px 3px 0px 3px;
+    margin-right: 8px;
+}
+#button1{
+    border-color: black;
+    height: 24px;
+    width: 44px;
+    margin: 2px;
+    text-align: center;
+    background-color: green;
+}
+#button2{
+    border-color: black;
+    height: 24px;
+    width: 40px;
+    margin: 2px;
+    text-align: center;
+    background-color: red;
+}
+#button3{
+    border-color: rgba(255, 0, 212, 0.887);
+    height: 24px;
+    width: 48px;
+    margin: 2px;
+    text-align: center;
+    background-color: greenyellow;
+}
+#button4{
+    border:3px solid black;
+    height: 24px;
+    width: 48px;
+    margin: 2px;
+    text-align: center;
+    background-color: rgb(47, 255, 217);
+}
